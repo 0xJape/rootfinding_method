@@ -104,6 +104,7 @@ web/
 
 - **Course**: CVE 154 - Numerical Methods
 - **Project**: Root Finding Algorithms
+- **Author**: Sweet Heart A. Torrado
 - **Block**: B15.2
 - **Date**: December 2025
 

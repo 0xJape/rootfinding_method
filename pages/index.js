@@ -266,7 +266,10 @@ export default function Home() {
             <p className="text-slate-400">
               CVE 154 Term Project - Root Finding Numerical Methods
             </p>
-            <p className="text-slate-500 text-sm mt-2">
+            <p className="text-slate-300 text-sm mt-2">
+              By Sweet Heart A. Torrado
+            </p>
+            <p className="text-slate-500 text-sm mt-1">
               December 2025 | Block B15.2
             </p>
           </div>
