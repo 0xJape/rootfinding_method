@@ -1,0 +1,2 @@
+# Python dependencies for Vercel serverless functions
+# These are used by the /api/solve.py endpoint
